@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\Universidad Semestre 4\Programación de Computadores III\EjerciciosTema1\EjerciciosTema1\obj\Debug\net10.0\EjerciciosTema1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Universidad Semestre 4\Programación de Computadores III\EjerciciosTema1\EjerciciosTema1\obj\Debug\net10.0\EjerciciosTema1.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Universidad Semestre 4\Programación de Computadores III\EjerciciosTema1\EjerciciosTema1\obj\Debug\net10.0\EjerciciosTema1.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Universidad Semestre 4\Programación de Computadores III\EjerciciosTema1\EjerciciosTema1\obj\Debug\net10.0\EjerciciosTema1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Universidad Semestre 4\Programación de Computadores III\EjerciciosTema1\EjerciciosTema1\bin\Debug\net10.0\EjerciciosTema1.exe
+C:\Users\LENOVO\Desktop\Universidad Semestre 4\Programación de Computadores III\EjerciciosTema1\EjerciciosTema1\bin\Debug\net10.0\EjerciciosTema1.deps.json
+C:\Users\LENOVO\Desktop\Universidad Semestre 4\Programación de Computadores III\EjerciciosTema1\EjerciciosTema1\bin\Debug\net10.0\EjerciciosTema1.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Universidad Semestre 4\Programación de Computadores III\EjerciciosTema1\EjerciciosTema1\bin\Debug\net10.0\EjerciciosTema1.dll
+C:\Users\LENOVO\Desktop\Universidad Semestre 4\Programación de Computadores III\EjerciciosTema1\EjerciciosTema1\bin\Debug\net10.0\EjerciciosTema1.pdb
+C:\Users\LENOVO\Desktop\Universidad Semestre 4\Programación de Computadores III\EjerciciosTema1\EjerciciosTema1\obj\Debug\net10.0\EjerciciosTema1.dll
+C:\Users\LENOVO\Desktop\Universidad Semestre 4\Programación de Computadores III\EjerciciosTema1\EjerciciosTema1\obj\Debug\net10.0\refint\EjerciciosTema1.dll
+C:\Users\LENOVO\Desktop\Universidad Semestre 4\Programación de Computadores III\EjerciciosTema1\EjerciciosTema1\obj\Debug\net10.0\EjerciciosTema1.pdb
+C:\Users\LENOVO\Desktop\Universidad Semestre 4\Programación de Computadores III\EjerciciosTema1\EjerciciosTema1\obj\Debug\net10.0\EjerciciosTema1.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Universidad Semestre 4\Programación de Computadores III\EjerciciosTema1\EjerciciosTema1\obj\Debug\net10.0\ref\EjerciciosTema1.dll
