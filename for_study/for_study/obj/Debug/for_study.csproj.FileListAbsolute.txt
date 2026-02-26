@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\for_study\for_study\obj\Debug\for_study.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\for_study\for_study\obj\Debug\for_study.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\for_study\for_study\bin\Debug\for_study.exe.config
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\for_study\for_study\bin\Debug\for_study.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\for_study\for_study\bin\Debug\for_study.pdb
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\for_study\for_study\obj\Debug\for_study.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\for_study\for_study\obj\Debug\for_study.pdb

@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\for_study\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{818334F4-0CA7-468A-8460-3FA8220EC798}|for_study\\for_study.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\for_study\\for_study\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818334F4-0CA7-468A-8460-3FA8220EC798}|for_study\\for_study.csproj|solutionrelative:for_study\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818334F4-0CA7-468A-8460-3FA8220EC798}|for_study\\for_study.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\for_study\\for_study\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818334F4-0CA7-468A-8460-3FA8220EC798}|for_study\\for_study.csproj|solutionrelative:for_study\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818334F4-0CA7-468A-8460-3FA8220EC798}|for_study\\for_study.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\for_study\\for_study\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818334F4-0CA7-468A-8460-3FA8220EC798}|for_study\\for_study.csproj|solutionrelative:for_study\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818334F4-0CA7-468A-8460-3FA8220EC798}|for_study\\for_study.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\for_study\\for_study\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818334F4-0CA7-468A-8460-3FA8220EC798}|for_study\\for_study.csproj|solutionrelative:for_study\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818334F4-0CA7-468A-8460-3FA8220EC798}|for_study\\for_study.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\for_study\\for_study\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818334F4-0CA7-468A-8460-3FA8220EC798}|for_study\\for_study.csproj|solutionrelative:for_study\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818334F4-0CA7-468A-8460-3FA8220EC798}|for_study\\for_study.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\for_study\\for_study\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818334F4-0CA7-468A-8460-3FA8220EC798}|for_study\\for_study.csproj|solutionrelative:for_study\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818334F4-0CA7-468A-8460-3FA8220EC798}|for_study\\for_study.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\for_study\\for_study\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818334F4-0CA7-468A-8460-3FA8220EC798}|for_study\\for_study.csproj|solutionrelative:for_study\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\for_study\\for_study\\Program.cs",
+              "RelativeDocumentMoniker": "for_study\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\for_study\\for_study\\Program.cs",
+              "RelativeToolTip": "for_study\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:36:15.533Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\for_study\\for_study\\Persona.cs",
+              "RelativeDocumentMoniker": "for_study\\Persona.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\for_study\\for_study\\Persona.cs",
+              "RelativeToolTip": "for_study\\Persona.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T22:17:52.698Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\for_study\\for_study\\Empleado.cs",
+              "RelativeDocumentMoniker": "for_study\\Empleado.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\for_study\\for_study\\Empleado.cs",
+              "RelativeToolTip": "for_study\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T23:00:25.541Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vendedor.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\for_study\\for_study\\Vendedor.cs",
+              "RelativeDocumentMoniker": "for_study\\Vendedor.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\for_study\\for_study\\Vendedor.cs",
+              "RelativeToolTip": "for_study\\Vendedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T22:19:49.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gerente.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\for_study\\for_study\\Gerente.cs",
+              "RelativeDocumentMoniker": "for_study\\Gerente.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\for_study\\for_study\\Gerente.cs",
+              "RelativeToolTip": "for_study\\Gerente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T22:19:23.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\for_study\\for_study\\Empresa.cs",
+              "RelativeDocumentMoniker": "for_study\\Empresa.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\for_study\\for_study\\Empresa.cs",
+              "RelativeToolTip": "for_study\\Empresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T21:56:48.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\for_study\\for_study\\Cliente.cs",
+              "RelativeDocumentMoniker": "for_study\\Cliente.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\for_study\\for_study\\Cliente.cs",
+              "RelativeToolTip": "for_study\\Cliente.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwD4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:40:46.616Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
