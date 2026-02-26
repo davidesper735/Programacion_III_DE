@@ -15,7 +15,7 @@ namespace for_study
 
         public string MostrarInformacion()
         {
-            return $"info";
+            return $"informacion";
         }
     }
 }
