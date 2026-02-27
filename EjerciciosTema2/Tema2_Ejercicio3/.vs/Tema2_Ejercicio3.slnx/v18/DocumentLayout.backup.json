@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosTema2\\Tema2_Ejercicio3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BDAEEE-A6D8-492F-BD7A-B50A2766E15D}|Tema2_Ejercicio3\\Tema2_Ejercicio3.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\ejerciciostema2\\tema2_ejercicio3\\tema2_ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BDAEEE-A6D8-492F-BD7A-B50A2766E15D}|Tema2_Ejercicio3\\Tema2_Ejercicio3.csproj|solutionrelative:tema2_ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BDAEEE-A6D8-492F-BD7A-B50A2766E15D}|Tema2_Ejercicio3\\Tema2_Ejercicio3.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\ejerciciostema2\\tema2_ejercicio3\\tema2_ejercicio3\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BDAEEE-A6D8-492F-BD7A-B50A2766E15D}|Tema2_Ejercicio3\\Tema2_Ejercicio3.csproj|solutionrelative:tema2_ejercicio3\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BDAEEE-A6D8-492F-BD7A-B50A2766E15D}|Tema2_Ejercicio3\\Tema2_Ejercicio3.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\ejerciciostema2\\tema2_ejercicio3\\tema2_ejercicio3\\cancion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BDAEEE-A6D8-492F-BD7A-B50A2766E15D}|Tema2_Ejercicio3\\Tema2_Ejercicio3.csproj|solutionrelative:tema2_ejercicio3\\cancion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BDAEEE-A6D8-492F-BD7A-B50A2766E15D}|Tema2_Ejercicio3\\Tema2_Ejercicio3.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\ejerciciostema2\\tema2_ejercicio3\\tema2_ejercicio3\\ireproductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0BDAEEE-A6D8-492F-BD7A-B50A2766E15D}|Tema2_Ejercicio3\\Tema2_Ejercicio3.csproj|solutionrelative:tema2_ejercicio3\\ireproductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Podcast.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosTema2\\Tema2_Ejercicio3\\Tema2_Ejercicio3\\Podcast.cs",
+              "RelativeDocumentMoniker": "Tema2_Ejercicio3\\Podcast.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosTema2\\Tema2_Ejercicio3\\Tema2_Ejercicio3\\Podcast.cs",
+              "RelativeToolTip": "Tema2_Ejercicio3\\Podcast.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T05:42:13.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cancion.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosTema2\\Tema2_Ejercicio3\\Tema2_Ejercicio3\\Cancion.cs",
+              "RelativeDocumentMoniker": "Tema2_Ejercicio3\\Cancion.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosTema2\\Tema2_Ejercicio3\\Tema2_Ejercicio3\\Cancion.cs",
+              "RelativeToolTip": "Tema2_Ejercicio3\\Cancion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T05:36:35.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IReproductor.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosTema2\\Tema2_Ejercicio3\\Tema2_Ejercicio3\\IReproductor.cs",
+              "RelativeDocumentMoniker": "Tema2_Ejercicio3\\IReproductor.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosTema2\\Tema2_Ejercicio3\\Tema2_Ejercicio3\\IReproductor.cs",
+              "RelativeToolTip": "Tema2_Ejercicio3\\IReproductor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T05:33:59.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosTema2\\Tema2_Ejercicio3\\Tema2_Ejercicio3\\Program.cs",
+              "RelativeDocumentMoniker": "Tema2_Ejercicio3\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosTema2\\Tema2_Ejercicio3\\Tema2_Ejercicio3\\Program.cs",
+              "RelativeToolTip": "Tema2_Ejercicio3\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAArwEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T05:32:22.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

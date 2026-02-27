@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\EjerciciosTema2\EjerciciosTema2\bin\Debug\EjerciciosTema2.exe.config
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\EjerciciosTema2\EjerciciosTema2\bin\Debug\EjerciciosTema2.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\EjerciciosTema2\EjerciciosTema2\bin\Debug\EjerciciosTema2.pdb
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\EjerciciosTema2\EjerciciosTema2\obj\Debug\EjerciciosTema2.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\EjerciciosTema2\EjerciciosTema2\obj\Debug\EjerciciosTema2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\EjerciciosTema2\EjerciciosTema2\obj\Debug\EjerciciosTema2.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\EjerciciosTema2\EjerciciosTema2\obj\Debug\EjerciciosTema2.pdb
