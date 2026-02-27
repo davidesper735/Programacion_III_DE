@@ -1,0 +1,2 @@
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\POO\POO\obj\Debug\POO.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\POO\POO\obj\Debug\POO.csproj.CoreCompileInputs.cache

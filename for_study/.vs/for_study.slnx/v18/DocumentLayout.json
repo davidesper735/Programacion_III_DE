@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\for_study\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{818334F4-0CA7-468A-8460-3FA8220EC798}|for_study\\for_study.csproj|C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\for_study\\for_study\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{818334F4-0CA7-468A-8460-3FA8220EC798}|for_study\\for_study.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\for_study\\for_study\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{818334F4-0CA7-468A-8460-3FA8220EC798}|for_study\\for_study.csproj|solutionrelative:for_study\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{818334F4-0CA7-468A-8460-3FA8220EC798}|for_study\\for_study.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\for_study\\for_study\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{818334F4-0CA7-468A-8460-3FA8220EC798}|for_study\\for_study.csproj|C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\for_study\\for_study\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{818334F4-0CA7-468A-8460-3FA8220EC798}|for_study\\for_study.csproj|solutionrelative:for_study\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -51,8 +51,7 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-26T14:36:15.533Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -62,7 +61,7 @@
               "RelativeDocumentMoniker": "for_study\\Persona.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\for_study\\for_study\\Persona.cs",
               "RelativeToolTip": "for_study\\Persona.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-26T22:17:52.698Z",
               "IsPinned": true,
