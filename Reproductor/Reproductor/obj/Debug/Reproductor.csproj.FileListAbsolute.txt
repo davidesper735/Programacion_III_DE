@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Reproductor\Reproductor\bin\Debug\Reproductor.exe.config
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Reproductor\Reproductor\bin\Debug\Reproductor.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Reproductor\Reproductor\bin\Debug\Reproductor.pdb
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Reproductor\Reproductor\obj\Debug\Reproductor.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Reproductor\Reproductor\obj\Debug\Reproductor.pdb
