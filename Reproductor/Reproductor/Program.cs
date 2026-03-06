@@ -64,6 +64,7 @@ namespace Reproductor
                         int episodio = int.Parse(Console.ReadLine());
 
                         PlayList.Add(new Podcast { Titulo = nombrePodcast, Creador = creador, Episodio = episodio });
+                        
                         break;
 
                     case "3":
@@ -74,6 +75,8 @@ namespace Reproductor
                         {
                             item.Play();
                         }
+
+                        break;
 
                     case "4":
 
