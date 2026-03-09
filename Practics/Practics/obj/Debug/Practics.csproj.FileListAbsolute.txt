@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Practics\Practics\bin\Debug\Practics.exe.config
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Practics\Practics\bin\Debug\Practics.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Practics\Practics\bin\Debug\Practics.pdb
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Practics\Practics\obj\Debug\Practics.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Practics\Practics\obj\Debug\Practics.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Practics\Practics\obj\Debug\Practics.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Practics\Practics\obj\Debug\Practics.pdb
