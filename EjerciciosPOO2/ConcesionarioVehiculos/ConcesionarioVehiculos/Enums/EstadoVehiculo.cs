@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace ConcesionarioVehiculos.Enums
 {
-    public enum EstadoVehiculo 
-    { 
-        Nuevo, Usado, Seminuevo 
+    public enum EstadoVehiculo
+    {
+        Nuevo,
+        Usado,
+        Seminuevo
     }
 }

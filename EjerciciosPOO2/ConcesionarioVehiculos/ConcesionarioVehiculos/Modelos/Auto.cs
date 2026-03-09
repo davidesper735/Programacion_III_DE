@@ -13,27 +13,28 @@ namespace ConcesionarioVehiculos.Modelos
         public int NumeroPuertas { get; set; }
         public bool TieneAireAcondicionado { get; set; }
 
-        public Auto(string id, string marca, string modelo, int año, double precioBase, EstadoVehiculo estado, TipoCombustible combustible, int numeroPuertas, bool tieneAireAcondicionado) : 
-            base(id, marca, modelo, año, precioBase, estado, combustible)
+        public Auto(int id, string marca, string modelo, int año, decimal precioBase,
+                    TipoCombustible combustible, EstadoVehiculo estado,
+                    int numeroPuertas, bool tieneAireAcondicionado)
+            : base(id, marca, modelo, año, precioBase, combustible, estado)
         {
             NumeroPuertas = numeroPuertas;
             TieneAireAcondicionado = tieneAireAcondicionado;
         }
 
-        public decimal CalcularComisionVendedor()
-        {
-            return CalcularPrecioFinal() * 0.05m;
-        }
-
         public decimal CalcularPrecioFinal()
         {
-            return (PrecioBase + (TieneAireAcondicionado ? 2000 : 0));
+            return PrecioBase + (TieneAireAcondicionado ? 2000 : 0);
+        }
+
+        public decimal CalcularComisionVendedor()
+        {
+            return CalcularPrecioFinal() * 0.05m; // 5% comisión
         }
 
         public void GenerarFacturaVenta()
         {
             Console.WriteLine($"Factura Auto: {Marca} {Modelo}, Precio Final: {CalcularPrecioFinal():C}, Comisión: {CalcularComisionVendedor():C}");
-
         }
     }
 }

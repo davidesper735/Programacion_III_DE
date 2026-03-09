@@ -1,12 +1,156 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosPOO2\\ConcesionarioVehiculos\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7289064C-F33B-485B-AA90-95C95E4C2E26}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\ejerciciospoo2\\concesionariovehiculos\\concesionariovehiculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7289064C-F33B-485B-AA90-95C95E4C2E26}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|solutionrelative:concesionariovehiculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7289064C-F33B-485B-AA90-95C95E4C2E26}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\ejerciciospoo2\\concesionariovehiculos\\concesionariovehiculos\\modelos\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7289064C-F33B-485B-AA90-95C95E4C2E26}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|solutionrelative:concesionariovehiculos\\modelos\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7289064C-F33B-485B-AA90-95C95E4C2E26}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\ejerciciospoo2\\concesionariovehiculos\\concesionariovehiculos\\modelos\\motocicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7289064C-F33B-485B-AA90-95C95E4C2E26}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|solutionrelative:concesionariovehiculos\\modelos\\motocicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7289064C-F33B-485B-AA90-95C95E4C2E26}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\ejerciciospoo2\\concesionariovehiculos\\concesionariovehiculos\\modelos\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7289064C-F33B-485B-AA90-95C95E4C2E26}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|solutionrelative:concesionariovehiculos\\modelos\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7289064C-F33B-485B-AA90-95C95E4C2E26}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\ejerciciospoo2\\concesionariovehiculos\\concesionariovehiculos\\modelos\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7289064C-F33B-485B-AA90-95C95E4C2E26}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|solutionrelative:concesionariovehiculos\\modelos\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7289064C-F33B-485B-AA90-95C95E4C2E26}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\ejerciciospoo2\\concesionariovehiculos\\concesionariovehiculos\\interfaces\\ivendible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7289064C-F33B-485B-AA90-95C95E4C2E26}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|solutionrelative:concesionariovehiculos\\interfaces\\ivendible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7289064C-F33B-485B-AA90-95C95E4C2E26}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\ejerciciospoo2\\concesionariovehiculos\\concesionariovehiculos\\enums\\estadovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7289064C-F33B-485B-AA90-95C95E4C2E26}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|solutionrelative:concesionariovehiculos\\enums\\estadovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7289064C-F33B-485B-AA90-95C95E4C2E26}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\ejerciciospoo2\\concesionariovehiculos\\concesionariovehiculos\\enums\\tipocombustible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7289064C-F33B-485B-AA90-95C95E4C2E26}|ConcesionarioVehiculos\\ConcesionarioVehiculos.csproj|solutionrelative:concesionariovehiculos\\enums\\tipocombustible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EstadoVehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosPOO2\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Enums\\EstadoVehiculo.cs",
+              "RelativeDocumentMoniker": "ConcesionarioVehiculos\\Enums\\EstadoVehiculo.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosPOO2\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Enums\\EstadoVehiculo.cs",
+              "RelativeToolTip": "ConcesionarioVehiculos\\Enums\\EstadoVehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T02:59:20.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IVendible.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosPOO2\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Interfaces\\IVendible.cs",
+              "RelativeDocumentMoniker": "ConcesionarioVehiculos\\Interfaces\\IVendible.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosPOO2\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Interfaces\\IVendible.cs",
+              "RelativeToolTip": "ConcesionarioVehiculos\\Interfaces\\IVendible.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T02:58:42.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosPOO2\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Modelos\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "ConcesionarioVehiculos\\Modelos\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosPOO2\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Modelos\\Vehiculo.cs",
+              "RelativeToolTip": "ConcesionarioVehiculos\\Modelos\\Vehiculo.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T02:58:15.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Motocicleta.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosPOO2\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Modelos\\Motocicleta.cs",
+              "RelativeDocumentMoniker": "ConcesionarioVehiculos\\Modelos\\Motocicleta.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosPOO2\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Modelos\\Motocicleta.cs",
+              "RelativeToolTip": "ConcesionarioVehiculos\\Modelos\\Motocicleta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T02:58:01.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Camion.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosPOO2\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Modelos\\Camion.cs",
+              "RelativeDocumentMoniker": "ConcesionarioVehiculos\\Modelos\\Camion.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosPOO2\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Modelos\\Camion.cs",
+              "RelativeToolTip": "ConcesionarioVehiculos\\Modelos\\Camion.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA3wCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T02:57:47.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosPOO2\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Modelos\\Auto.cs",
+              "RelativeDocumentMoniker": "ConcesionarioVehiculos\\Modelos\\Auto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosPOO2\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Modelos\\Auto.cs",
+              "RelativeToolTip": "ConcesionarioVehiculos\\Modelos\\Auto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA3wCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T02:57:23.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosPOO2\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Program.cs",
+              "RelativeDocumentMoniker": "ConcesionarioVehiculos\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosPOO2\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Program.cs",
+              "RelativeToolTip": "ConcesionarioVehiculos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T02:54:18.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TipoCombustible.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosPOO2\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Enums\\TipoCombustible.cs",
+              "RelativeDocumentMoniker": "ConcesionarioVehiculos\\Enums\\TipoCombustible.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosPOO2\\ConcesionarioVehiculos\\ConcesionarioVehiculos\\Enums\\TipoCombustible.cs",
+              "RelativeToolTip": "ConcesionarioVehiculos\\Enums\\TipoCombustible.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T02:59:47.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

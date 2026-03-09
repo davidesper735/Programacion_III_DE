@@ -43,11 +43,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Enums\EstadoVehiculo.cs" />
+    <Compile Include="Enums\TipoCombustible.cs" />
+    <Compile Include="Interfaces\IVendible.cs" />
+    <Compile Include="Modelos\Auto.cs" />
+    <Compile Include="Modelos\Camion.cs" />
+    <Compile Include="Modelos\Motocicleta.cs" />
+    <Compile Include="Modelos\Vehiculo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
