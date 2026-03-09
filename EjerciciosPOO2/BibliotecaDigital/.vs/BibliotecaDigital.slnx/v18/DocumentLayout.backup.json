@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosPOO2\\BibliotecaDigital\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{821003CE-34F2-498E-B486-5DB798C09A39}|BibliotecaDigital\\BibliotecaDigital.csproj|C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosPOO2\\BibliotecaDigital\\BibliotecaDigital\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821003CE-34F2-498E-B486-5DB798C09A39}|BibliotecaDigital\\BibliotecaDigital.csproj|solutionrelative:BibliotecaDigital\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821003CE-34F2-498E-B486-5DB798C09A39}|BibliotecaDigital\\BibliotecaDigital.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\ejerciciospoo2\\bibliotecadigital\\bibliotecadigital\\modelos\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821003CE-34F2-498E-B486-5DB798C09A39}|BibliotecaDigital\\BibliotecaDigital.csproj|solutionrelative:bibliotecadigital\\modelos\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821003CE-34F2-498E-B486-5DB798C09A39}|BibliotecaDigital\\BibliotecaDigital.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\ejerciciospoo2\\bibliotecadigital\\bibliotecadigital\\modelos\\materialbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821003CE-34F2-498E-B486-5DB798C09A39}|BibliotecaDigital\\BibliotecaDigital.csproj|solutionrelative:bibliotecadigital\\modelos\\materialbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821003CE-34F2-498E-B486-5DB798C09A39}|BibliotecaDigital\\BibliotecaDigital.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\ejerciciospoo2\\bibliotecadigital\\bibliotecadigital\\interfaces\\iprestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821003CE-34F2-498E-B486-5DB798C09A39}|BibliotecaDigital\\BibliotecaDigital.csproj|solutionrelative:bibliotecadigital\\interfaces\\iprestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{821003CE-34F2-498E-B486-5DB798C09A39}|BibliotecaDigital\\BibliotecaDigital.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\ejerciciospoo2\\bibliotecadigital\\bibliotecadigital\\enums\\tipocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821003CE-34F2-498E-B486-5DB798C09A39}|BibliotecaDigital\\BibliotecaDigital.csproj|solutionrelative:bibliotecadigital\\enums\\tipocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosPOO2\\BibliotecaDigital\\BibliotecaDigital\\Modelos\\Libro.cs",
+              "RelativeDocumentMoniker": "BibliotecaDigital\\Modelos\\Libro.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosPOO2\\BibliotecaDigital\\BibliotecaDigital\\Modelos\\Libro.cs",
+              "RelativeToolTip": "BibliotecaDigital\\Modelos\\Libro.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wBoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T02:45:49.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPrestable.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosPOO2\\BibliotecaDigital\\BibliotecaDigital\\Interfaces\\IPrestable.cs",
+              "RelativeDocumentMoniker": "BibliotecaDigital\\Interfaces\\IPrestable.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosPOO2\\BibliotecaDigital\\BibliotecaDigital\\Interfaces\\IPrestable.cs",
+              "RelativeToolTip": "BibliotecaDigital\\Interfaces\\IPrestable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T02:45:24.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TipoCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosPOO2\\BibliotecaDigital\\BibliotecaDigital\\Enums\\TipoCategoria.cs",
+              "RelativeDocumentMoniker": "BibliotecaDigital\\Enums\\TipoCategoria.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosPOO2\\BibliotecaDigital\\BibliotecaDigital\\Enums\\TipoCategoria.cs",
+              "RelativeToolTip": "BibliotecaDigital\\Enums\\TipoCategoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T02:45:19.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MaterialBiblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosPOO2\\BibliotecaDigital\\BibliotecaDigital\\Modelos\\MaterialBiblioteca.cs",
+              "RelativeDocumentMoniker": "BibliotecaDigital\\Modelos\\MaterialBiblioteca.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosPOO2\\BibliotecaDigital\\BibliotecaDigital\\Modelos\\MaterialBiblioteca.cs",
+              "RelativeToolTip": "BibliotecaDigital\\Modelos\\MaterialBiblioteca.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T11:59:45.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosPOO2\\BibliotecaDigital\\BibliotecaDigital\\Program.cs",
+              "RelativeDocumentMoniker": "BibliotecaDigital\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\EjerciciosPOO2\\BibliotecaDigital\\BibliotecaDigital\\Program.cs",
+              "RelativeToolTip": "BibliotecaDigital\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T07:04:13.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

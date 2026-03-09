@@ -1,7 +1,0 @@
-C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\BibliotecaDigital\BibliotecaDigital\bin\Debug\BibliotecaDigital.exe.config
-C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\BibliotecaDigital\BibliotecaDigital\bin\Debug\BibliotecaDigital.exe
-C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\BibliotecaDigital\BibliotecaDigital\bin\Debug\BibliotecaDigital.pdb
-C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\BibliotecaDigital\BibliotecaDigital\obj\Debug\BibliotecaDigital.csproj.AssemblyReference.cache
-C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\BibliotecaDigital\BibliotecaDigital\obj\Debug\BibliotecaDigital.csproj.CoreCompileInputs.cache
-C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\BibliotecaDigital\BibliotecaDigital\obj\Debug\BibliotecaDigital.exe
-C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\BibliotecaDigital\BibliotecaDigital\obj\Debug\BibliotecaDigital.pdb
