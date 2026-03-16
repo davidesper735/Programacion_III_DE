@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\EjerciciosArchivos\DiarioPersonal\DiarioPersonal\bin\Debug\DiarioPersonal.exe.config
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\EjerciciosArchivos\DiarioPersonal\DiarioPersonal\bin\Debug\DiarioPersonal.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\EjerciciosArchivos\DiarioPersonal\DiarioPersonal\bin\Debug\DiarioPersonal.pdb
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\EjerciciosArchivos\DiarioPersonal\DiarioPersonal\obj\Debug\DiarioPersonal.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\EjerciciosArchivos\DiarioPersonal\DiarioPersonal\obj\Debug\DiarioPersonal.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\EjerciciosArchivos\DiarioPersonal\DiarioPersonal\obj\Debug\DiarioPersonal.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\EjerciciosArchivos\DiarioPersonal\DiarioPersonal\obj\Debug\DiarioPersonal.pdb

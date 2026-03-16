@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\EjerciciosArchivos\EstructuraDeProyectos\EstructuraDeProyectos\bin\Debug\EstructuraDeProyectos.exe.config
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\EjerciciosArchivos\EstructuraDeProyectos\EstructuraDeProyectos\bin\Debug\EstructuraDeProyectos.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\EjerciciosArchivos\EstructuraDeProyectos\EstructuraDeProyectos\bin\Debug\EstructuraDeProyectos.pdb
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\EjerciciosArchivos\EstructuraDeProyectos\EstructuraDeProyectos\obj\Debug\EstructuraDeProyectos.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\EjerciciosArchivos\EstructuraDeProyectos\EstructuraDeProyectos\obj\Debug\EstructuraDeProyectos.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\EjerciciosArchivos\EstructuraDeProyectos\EstructuraDeProyectos\obj\Debug\EstructuraDeProyectos.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\EjerciciosArchivos\EstructuraDeProyectos\EstructuraDeProyectos\obj\Debug\EstructuraDeProyectos.pdb

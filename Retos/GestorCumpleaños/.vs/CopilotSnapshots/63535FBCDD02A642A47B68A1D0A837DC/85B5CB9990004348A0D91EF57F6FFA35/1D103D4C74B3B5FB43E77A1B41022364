@@ -1,0 +1,61 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Globalization;
+
+/*
+ * Crear un sistema que calcule días restantes para eventos espciales y los persista.
+ * 
+ * Solicita los datos de 3 amigos. Calcula cuántos dias faltan para su cumpleaños y guarda
+ * el nombre y la fecha en un archivo llamado cumpleaños.txt.
+ */
+
+namespace GestorCumpleaños
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("===== Gestor de Cumpleaños ======");
+
+            for (int i = 0; i < 3; i++)
+            {
+                Console.WriteLine($"Ingrese el nombre del amigo #{i + 1}:");
+                string nombre = Console.ReadLine();
+                Console.WriteLine($"Ingrese la fecha de nacimiento de {nombre} (formato: dd/MM/yyyy):");
+                string fechaNacimiento = Console.ReadLine();
+                int diasRestantes = CalcularDiasRestantes(fechaNacimiento);
+                Console.WriteLine($"Faltan {diasRestantes} días para el cumpleaños de {nombre}.");
+                GuardarCumpleaños(nombre, fechaNacimiento);
+            }
+        }
+
+        public static int CalcularDiasRestantes(string fechaNacimiento)
+        {
+            DateTime fechaNac;
+
+            // Validar y parsear la fecha en el formato esperado
+            if (!DateTime.TryParseExact(fechaNacimiento, "dd/MM/yyyy", CultureInfo.InvariantCulture, DateTimeStyles.None, out fechaNac))
+            {
+                throw new ArgumentException("La fecha de nacimiento no tiene el formato esperado 'dd/MM/yyyy'.");
+            }
+
+            DateTime hoy = DateTime.Today;
+            DateTime proximoCumpleaños = new DateTime(hoy.Year, fechaNac.Month, fechaNac.Day);
+            if (proximoCumpleaños < hoy)
+            {
+                proximoCumpleaños = proximoCumpleaños.AddYears(1);
+            }
+            return (proximoCumpleaños - hoy).Days;
+        }
+
+        public static void GuardarCumpleaños(string nombre, string fechaNacimiento)
+        {
+            string rutaArchivo = "cumpleaños.txt";
+            string contenido = $"{nombre} - {fechaNacimiento}";
+            System.IO.File.AppendAllText(rutaArchivo, contenido + Environment.NewLine);
+        }
+    }
+}

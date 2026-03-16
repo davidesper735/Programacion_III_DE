@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\EjerciciosArchivos\GestorDeContactos\GestorDeContactos\bin\Debug\GestorDeContactos.exe.config
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\EjerciciosArchivos\GestorDeContactos\GestorDeContactos\bin\Debug\GestorDeContactos.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\EjerciciosArchivos\GestorDeContactos\GestorDeContactos\bin\Debug\GestorDeContactos.pdb
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\EjerciciosArchivos\GestorDeContactos\GestorDeContactos\obj\Debug\GestorDeContactos.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\EjerciciosArchivos\GestorDeContactos\GestorDeContactos\obj\Debug\GestorDeContactos.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\EjerciciosArchivos\GestorDeContactos\GestorDeContactos\obj\Debug\GestorDeContactos.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\EjerciciosArchivos\GestorDeContactos\GestorDeContactos\obj\Debug\GestorDeContactos.pdb

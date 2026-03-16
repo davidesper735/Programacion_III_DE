@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Retos\GestorCumpleaños\GestorCumpleaños\obj\Debug\GestorCumpleaños.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Retos\GestorCumpleaños\GestorCumpleaños\obj\Debug\GestorCumpleaños.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Retos\GestorCumpleaños\GestorCumpleaños\bin\Debug\GestorCumpleaños.exe.config
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Retos\GestorCumpleaños\GestorCumpleaños\bin\Debug\GestorCumpleaños.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Retos\GestorCumpleaños\GestorCumpleaños\bin\Debug\GestorCumpleaños.pdb
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Retos\GestorCumpleaños\GestorCumpleaños\obj\Debug\GestorCumpleaños.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Retos\GestorCumpleaños\GestorCumpleaños\obj\Debug\GestorCumpleaños.pdb
