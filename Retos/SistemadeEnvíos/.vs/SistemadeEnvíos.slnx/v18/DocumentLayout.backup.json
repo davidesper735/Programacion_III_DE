@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Retos\\SistemadeEnv\u00EDos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBA4927-9C6B-4441-B2CC-790671AB6B39}|SistemadeEnv\u00EDos\\SistemadeEnv\u00EDos.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\retos\\sistemadeenv\u00EDos\\sistemadeenv\u00EDos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBA4927-9C6B-4441-B2CC-790671AB6B39}|SistemadeEnv\u00EDos\\SistemadeEnv\u00EDos.csproj|solutionrelative:sistemadeenv\u00EDos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBA4927-9C6B-4441-B2CC-790671AB6B39}|SistemadeEnv\u00EDos\\SistemadeEnv\u00EDos.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\retos\\sistemadeenv\u00EDos\\sistemadeenv\u00EDos\\modelos\\paquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBA4927-9C6B-4441-B2CC-790671AB6B39}|SistemadeEnv\u00EDos\\SistemadeEnv\u00EDos.csproj|solutionrelative:sistemadeenv\u00EDos\\modelos\\paquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBA4927-9C6B-4441-B2CC-790671AB6B39}|SistemadeEnv\u00EDos\\SistemadeEnv\u00EDos.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\retos\\sistemadeenv\u00EDos\\sistemadeenv\u00EDos\\enum\\tipoenv\u00EDo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBA4927-9C6B-4441-B2CC-790671AB6B39}|SistemadeEnv\u00EDos\\SistemadeEnv\u00EDos.csproj|solutionrelative:sistemadeenv\u00EDos\\enum\\tipoenv\u00EDo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TipoEnv\u00EDo.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Retos\\SistemadeEnv\u00EDos\\SistemadeEnv\u00EDos\\Enum\\TipoEnv\u00EDo.cs",
+              "RelativeDocumentMoniker": "SistemadeEnv\u00EDos\\Enum\\TipoEnv\u00EDo.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Retos\\SistemadeEnv\u00EDos\\SistemadeEnv\u00EDos\\Enum\\TipoEnv\u00EDo.cs",
+              "RelativeToolTip": "SistemadeEnv\u00EDos\\Enum\\TipoEnv\u00EDo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:30:56.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Paquete.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Retos\\SistemadeEnv\u00EDos\\SistemadeEnv\u00EDos\\Modelos\\Paquete.cs",
+              "RelativeDocumentMoniker": "SistemadeEnv\u00EDos\\Modelos\\Paquete.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Retos\\SistemadeEnv\u00EDos\\SistemadeEnv\u00EDos\\Modelos\\Paquete.cs",
+              "RelativeToolTip": "SistemadeEnv\u00EDos\\Modelos\\Paquete.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:30:15.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Retos\\SistemadeEnv\u00EDos\\SistemadeEnv\u00EDos\\Program.cs",
+              "RelativeDocumentMoniker": "SistemadeEnv\u00EDos\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Retos\\SistemadeEnv\u00EDos\\SistemadeEnv\u00EDos\\Program.cs",
+              "RelativeToolTip": "SistemadeEnv\u00EDos\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwB4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:27:44.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
