@@ -30,7 +30,7 @@ namespace GestorCumpleaños
                 Console.WriteLine($"Ingrese el nombre del amigo #{i + 1}:");
                 amigo.Nombre = Console.ReadLine();
 
-                Console.WriteLine($"Ingrese la fecha de nacimiento de {amigo.Nombre} (formato: dd/MM/yyyy):");
+                Console.WriteLine($"Ingrese la fecha de nacimiento de {amigo.Nombre} (formato: dd/MM/yyyy): ");
                 string fechaNacimiento = Console.ReadLine();
 
                 int diasRestantes = CalcularDiasRestantes(fechaNacimiento);
