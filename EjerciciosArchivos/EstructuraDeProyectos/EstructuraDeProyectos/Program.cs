@@ -25,6 +25,11 @@ namespace EstructuraDeProyectos
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("==================================================");
+            Console.WriteLine("         Creador de Estructura de Proyectos       ");
+            Console.WriteLine("==================================================\n");
+
             Console.Write("Ingresa el nombre del proyecto: ");
             string nombreProyecto = Console.ReadLine();
             string principal = nombreProyecto;
