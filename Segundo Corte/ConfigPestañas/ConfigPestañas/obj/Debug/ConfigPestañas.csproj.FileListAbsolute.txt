@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\ConfigPestañas\ConfigPestañas\bin\Debug\ConfigPestañas.exe.config
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\ConfigPestañas\ConfigPestañas\bin\Debug\ConfigPestañas.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\ConfigPestañas\ConfigPestañas\bin\Debug\ConfigPestañas.pdb
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\ConfigPestañas\ConfigPestañas\obj\Debug\ConfigPestañas.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\ConfigPestañas\ConfigPestañas\obj\Debug\ConfigPestañas.Form1.resources
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\ConfigPestañas\ConfigPestañas\obj\Debug\ConfigPestañas.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\ConfigPestañas\ConfigPestañas\obj\Debug\ConfigPestañas.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\ConfigPestañas\ConfigPestañas\obj\Debug\ConfigPestañas.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\ConfigPestañas\ConfigPestañas\obj\Debug\ConfigPestañas.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\ConfigPestañas\ConfigPestañas\obj\Debug\ConfigPestañas.pdb

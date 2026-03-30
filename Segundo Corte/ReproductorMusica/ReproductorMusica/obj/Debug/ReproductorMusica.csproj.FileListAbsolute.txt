@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\ReproductorMusica\ReproductorMusica\bin\Debug\ReproductorMusica.exe.config
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\ReproductorMusica\ReproductorMusica\bin\Debug\ReproductorMusica.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\ReproductorMusica\ReproductorMusica\bin\Debug\ReproductorMusica.pdb
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\ReproductorMusica\ReproductorMusica\obj\Debug\ReproductorMusica.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\ReproductorMusica\ReproductorMusica\obj\Debug\ReproductorMusica.Form1.resources
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\ReproductorMusica\ReproductorMusica\obj\Debug\ReproductorMusica.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\ReproductorMusica\ReproductorMusica\obj\Debug\ReproductorMusica.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\ReproductorMusica\ReproductorMusica\obj\Debug\ReproductorMusica.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\ReproductorMusica\ReproductorMusica\obj\Debug\ReproductorMusica.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\ReproductorMusica\ReproductorMusica\obj\Debug\ReproductorMusica.pdb
