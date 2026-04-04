@@ -1,12 +1,69 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Segundo Corte\\ConfigPesta\u00F1as\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6E3457-5B51-4240-BC31-B7E685BEE9ED}|ConfigPesta\u00F1as\\ConfigPesta\u00F1as.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\segundo corte\\configpesta\u00F1as\\configpesta\u00F1as\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F6E3457-5B51-4240-BC31-B7E685BEE9ED}|ConfigPesta\u00F1as\\ConfigPesta\u00F1as.csproj|solutionrelative:configpesta\u00F1as\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6E3457-5B51-4240-BC31-B7E685BEE9ED}|ConfigPesta\u00F1as\\ConfigPesta\u00F1as.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\segundo corte\\configpesta\u00F1as\\configpesta\u00F1as\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{4F6E3457-5B51-4240-BC31-B7E685BEE9ED}|ConfigPesta\u00F1as\\ConfigPesta\u00F1as.csproj|solutionrelative:configpesta\u00F1as\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6E3457-5B51-4240-BC31-B7E685BEE9ED}|ConfigPesta\u00F1as\\ConfigPesta\u00F1as.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\segundo corte\\configpesta\u00F1as\\configpesta\u00F1as\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6E3457-5B51-4240-BC31-B7E685BEE9ED}|ConfigPesta\u00F1as\\ConfigPesta\u00F1as.csproj|solutionrelative:configpesta\u00F1as\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Segundo Corte\\ConfigPesta\u00F1as\\ConfigPesta\u00F1as\\Form1.cs",
+              "RelativeDocumentMoniker": "ConfigPesta\u00F1as\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Segundo Corte\\ConfigPesta\u00F1as\\ConfigPesta\u00F1as\\Form1.cs [Design]",
+              "RelativeToolTip": "ConfigPesta\u00F1as\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T14:19:33.271Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Segundo Corte\\ConfigPesta\u00F1as\\ConfigPesta\u00F1as\\Program.cs",
+              "RelativeDocumentMoniker": "ConfigPesta\u00F1as\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Segundo Corte\\ConfigPesta\u00F1as\\ConfigPesta\u00F1as\\Program.cs",
+              "RelativeToolTip": "ConfigPesta\u00F1as\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T14:19:29.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Segundo Corte\\ConfigPesta\u00F1as\\ConfigPesta\u00F1as\\Form1.resx",
+              "RelativeDocumentMoniker": "ConfigPesta\u00F1as\\Form1.resx",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Segundo Corte\\ConfigPesta\u00F1as\\ConfigPesta\u00F1as\\Form1.resx",
+              "RelativeToolTip": "ConfigPesta\u00F1as\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-03-30T14:19:28.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Teclado de Calculadora\Teclado de Calculadora\obj\Debug\Teclado de Calculadora.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Teclado de Calculadora\Teclado de Calculadora\obj\Debug\Teclado_de_Calculadora.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Teclado de Calculadora\Teclado de Calculadora\obj\Debug\Teclado de Calculadora.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Teclado de Calculadora\Teclado de Calculadora\obj\Debug\Teclado de Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Teclado de Calculadora\Teclado de Calculadora\bin\Debug\Teclado de Calculadora.exe.config
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Teclado de Calculadora\Teclado de Calculadora\bin\Debug\Teclado de Calculadora.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Teclado de Calculadora\Teclado de Calculadora\bin\Debug\Teclado de Calculadora.pdb
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Teclado de Calculadora\Teclado de Calculadora\obj\Debug\Teclado_de_Calculadora.Form1.resources
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Teclado de Calculadora\Teclado de Calculadora\obj\Debug\Teclado de Calculadora.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Teclado de Calculadora\Teclado de Calculadora\obj\Debug\Teclado de Calculadora.pdb
