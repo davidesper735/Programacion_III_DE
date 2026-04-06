@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{300BAB88-67DE-4349-8C86-1A561FC87CE5}</ProjectGuid>
+    <ProjectGuid>{DC592973-061C-43AA-9A17-692D07D8EB5D}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Teclado_de_Calculadora</RootNamespace>
-    <AssemblyName>Teclado de Calculadora</AssemblyName>
+    <RootNamespace>ValidadorRegistro</RootNamespace>
+    <AssemblyName>ValidadorRegistro</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,9 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="System">
-      <HintPath>..\..\..\..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll</HintPath>
-    </Reference>
+    <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />

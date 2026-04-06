@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Otros\ValidadorRegistro\ValidadorRegistro\bin\Debug\ValidadorRegistro.exe.config
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Otros\ValidadorRegistro\ValidadorRegistro\bin\Debug\ValidadorRegistro.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Otros\ValidadorRegistro\ValidadorRegistro\bin\Debug\ValidadorRegistro.pdb
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Otros\ValidadorRegistro\ValidadorRegistro\obj\Debug\ValidadorRegistro.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Otros\ValidadorRegistro\ValidadorRegistro\obj\Debug\ValidadorRegistro.Form1.resources
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Otros\ValidadorRegistro\ValidadorRegistro\obj\Debug\ValidadorRegistro.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Otros\ValidadorRegistro\ValidadorRegistro\obj\Debug\ValidadorRegistro.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Otros\ValidadorRegistro\ValidadorRegistro\obj\Debug\ValidadorRegistro.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Otros\ValidadorRegistro\ValidadorRegistro\obj\Debug\ValidadorRegistro.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Otros\ValidadorRegistro\ValidadorRegistro\obj\Debug\ValidadorRegistro.pdb
