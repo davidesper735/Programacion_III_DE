@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Validación y Lógica\Registro de Empleados\Registro de Empleados\bin\Debug\Registro de Empleados.exe.config
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Validación y Lógica\Registro de Empleados\Registro de Empleados\bin\Debug\Registro de Empleados.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Validación y Lógica\Registro de Empleados\Registro de Empleados\bin\Debug\Registro de Empleados.pdb
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Validación y Lógica\Registro de Empleados\Registro de Empleados\obj\Debug\Registro de Empleados.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Validación y Lógica\Registro de Empleados\Registro de Empleados\obj\Debug\Registro_de_Empleados.Form1.resources
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Validación y Lógica\Registro de Empleados\Registro de Empleados\obj\Debug\Registro_de_Empleados.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Validación y Lógica\Registro de Empleados\Registro de Empleados\obj\Debug\Registro de Empleados.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Validación y Lógica\Registro de Empleados\Registro de Empleados\obj\Debug\Registro de Empleados.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Validación y Lógica\Registro de Empleados\Registro de Empleados\obj\Debug\Registro de Empleados.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Validación y Lógica\Registro de Empleados\Registro de Empleados\obj\Debug\Registro de Empleados.pdb

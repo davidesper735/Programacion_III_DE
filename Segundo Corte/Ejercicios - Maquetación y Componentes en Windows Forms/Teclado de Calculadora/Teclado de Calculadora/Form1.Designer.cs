@@ -49,6 +49,8 @@
             this.btnBack = new System.Windows.Forms.Button();
             this.btnClear = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
+            this.lblJuanda = new System.Windows.Forms.Label();
+            this.lblJuanda2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // txtBox
@@ -84,6 +86,7 @@
             this.btnNumber2.TabIndex = 2;
             this.btnNumber2.Text = "2";
             this.btnNumber2.UseVisualStyleBackColor = false;
+            this.btnNumber2.Click += new System.EventHandler(this.btnNumber2_Click);
             // 
             // btnNumber3
             // 
@@ -218,6 +221,7 @@
             this.btnNumber0.TabIndex = 14;
             this.btnNumber0.Text = "0";
             this.btnNumber0.UseVisualStyleBackColor = false;
+            this.btnNumber0.Click += new System.EventHandler(this.btnNumber0_Click);
             // 
             // btnDivision
             // 
@@ -280,11 +284,35 @@
             this.button1.Text = "button1";
             this.button1.UseVisualStyleBackColor = true;
             // 
+            // lblJuanda
+            // 
+            this.lblJuanda.AutoSize = true;
+            this.lblJuanda.Location = new System.Drawing.Point(707, 14);
+            this.lblJuanda.Name = "lblJuanda";
+            this.lblJuanda.Size = new System.Drawing.Size(81, 13);
+            this.lblJuanda.TabIndex = 21;
+            this.lblJuanda.Text = "Te amo Juanda";
+            this.lblJuanda.Visible = false;
+            this.lblJuanda.Click += new System.EventHandler(this.lblJuanda_Click);
+            // 
+            // lblJuanda2
+            // 
+            this.lblJuanda2.AutoSize = true;
+            this.lblJuanda2.Location = new System.Drawing.Point(668, 14);
+            this.lblJuanda2.Name = "lblJuanda2";
+            this.lblJuanda2.Size = new System.Drawing.Size(81, 13);
+            this.lblJuanda2.TabIndex = 22;
+            this.lblJuanda2.Text = "Te odio Juanda";
+            this.lblJuanda2.TextAlign = System.Drawing.ContentAlignment.BottomLeft;
+            this.lblJuanda2.Visible = false;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.lblJuanda2);
+            this.Controls.Add(this.lblJuanda);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.btnClear);
             this.Controls.Add(this.btnBack);
@@ -337,6 +365,8 @@
         private System.Windows.Forms.Button btnBack;
         private System.Windows.Forms.Button btnClear;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Label lblJuanda;
+        private System.Windows.Forms.Label lblJuanda2;
     }
 }
 

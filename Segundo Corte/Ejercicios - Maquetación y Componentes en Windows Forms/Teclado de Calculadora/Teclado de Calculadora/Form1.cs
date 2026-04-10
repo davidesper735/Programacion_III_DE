@@ -46,5 +46,20 @@ namespace Teclado_de_Calculadora
         {
 
         }
+
+        private void btnNumber2_Click(object sender, EventArgs e)
+        {
+            lblJuanda2.Visible = true;
+        }
+
+        private void btnNumber0_Click(object sender, EventArgs e)
+        {
+            lblJuanda.Visible = true;
+        }
+
+        private void lblJuanda_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Validación y Lógica\Reserva Hotel\Reserva Hotel\obj\Debug\Reserva Hotel.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Validación y Lógica\Reserva Hotel\Reserva Hotel\obj\Debug\Reserva_Hotel.Form1.resources
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Validación y Lógica\Reserva Hotel\Reserva Hotel\obj\Debug\Reserva_Hotel.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Validación y Lógica\Reserva Hotel\Reserva Hotel\obj\Debug\Reserva Hotel.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Validación y Lógica\Reserva Hotel\Reserva Hotel\obj\Debug\Reserva Hotel.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Validación y Lógica\Reserva Hotel\Reserva Hotel\bin\Debug\Reserva Hotel.exe.config
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Validación y Lógica\Reserva Hotel\Reserva Hotel\bin\Debug\Reserva Hotel.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Validación y Lógica\Reserva Hotel\Reserva Hotel\bin\Debug\Reserva Hotel.pdb
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Validación y Lógica\Reserva Hotel\Reserva Hotel\obj\Debug\Reserva Hotel.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Validación y Lógica\Reserva Hotel\Reserva Hotel\obj\Debug\Reserva Hotel.pdb
