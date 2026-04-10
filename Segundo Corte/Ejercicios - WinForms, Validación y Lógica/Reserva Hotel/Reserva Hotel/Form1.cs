@@ -98,13 +98,14 @@ namespace Reserva_Hotel
                 }
 
                 rtbResumen.Text =
-                    "--- RESUMEN DE RESERVA ---\n" +
-                    "Cliente: " + txtCliente.Text + "\n" +
-                    "Estancia: " + dias + " noches.\n" +
-                    "Personas: " + personas + "\n" +
-                    "Servicios: " + serviciosTexto + "\n" +
-                    "--------------------------\n" +
-                    "TOTAL A PAGAR: $" + totalAPagar;
+                    "===== RESUMEN DE RESERVA =====\n\n" +
+                    "Cliente:    " + txtCliente.Text + "\n" +
+                    "Estancia:   " + dias + " noches\n" +
+                    "Personas:   " + personas + "\n" +
+                    "Servicios:  " + serviciosTexto + "\n\n" +
+                    "-----------------------------\n" +
+                    "TOTAL A PAGAR: $" + totalAPagar + "\n" +
+                    "=============================";
             }
         }
 
@@ -112,10 +113,9 @@ namespace Reserva_Hotel
         {
             txtCliente.Text = "";
             dtpEntrada.Value = DateTime.Today;
-            dtpSalida.Value = DateTime.Today.AddDays(1);
+            dtpSalida.Value = DateTime.Today;
             numPersonas.Value = 1;
 
-            // Desmarcar todos los servicios
             for (int i = 0; i < clbServicios.Items.Count; i++)
                 clbServicios.SetItemChecked(i, false);
 
