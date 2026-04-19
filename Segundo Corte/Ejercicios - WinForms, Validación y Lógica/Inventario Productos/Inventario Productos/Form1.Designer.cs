@@ -1,6 +1,6 @@
 ﻿namespace Inventario_Productos
 {
-    partial class form1
+    partial class Form1
     {
         /// <summary>
         /// Required designer variable.
@@ -281,7 +281,7 @@
             this.lblValidacionIVA.TabIndex = 20;
             this.lblValidacionIVA.Text = "label1";
             // 
-            // form1
+            // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -307,7 +307,7 @@
             this.Controls.Add(this.txtNombreProducto);
             this.Controls.Add(this.lblCodigo);
             this.Controls.Add(this.txtCodigo);
-            this.Name = "form1";
+            this.Name = "Form1";
             this.Text = "Gestión de Inventario de Productos";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.numStockInicial)).EndInit();

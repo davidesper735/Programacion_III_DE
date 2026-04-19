@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Validación y Lógica\Inventario Productos\Inventario Productos\obj\Debug\Inventario Productos.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Validación y Lógica\Inventario Productos\Inventario Productos\obj\Debug\Inventario_Productos.form1.resources
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Validación y Lógica\Inventario Productos\Inventario Productos\obj\Debug\Inventario_Productos.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Validación y Lógica\Inventario Productos\Inventario Productos\obj\Debug\Inventario Productos.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Validación y Lógica\Inventario Productos\Inventario Productos\obj\Debug\Inventario Productos.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Validación y Lógica\Inventario Productos\Inventario Productos\bin\Debug\Inventario Productos.exe.config
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Validación y Lógica\Inventario Productos\Inventario Productos\bin\Debug\Inventario Productos.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Validación y Lógica\Inventario Productos\Inventario Productos\bin\Debug\Inventario Productos.pdb
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Validación y Lógica\Inventario Productos\Inventario Productos\obj\Debug\Inventario Productos.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Validación y Lógica\Inventario Productos\Inventario Productos\obj\Debug\Inventario Productos.pdb

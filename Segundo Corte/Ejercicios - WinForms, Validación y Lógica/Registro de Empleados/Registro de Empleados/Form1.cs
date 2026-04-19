@@ -17,35 +17,11 @@ namespace Registro_de_Empleados
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void lblResultadoSueldo_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void txtNombres_TextChanged(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void lblValidacionIdentificacion_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void btnRegistrar_Click(object sender, EventArgs e)
         {
 
             bool esValido = true;
+
             // Campos Obligatorios: Todos los campos de texto deben estar llenos.
 
             if (txtNombres.Text == "")
@@ -143,16 +119,6 @@ namespace Registro_de_Empleados
                 lblResultadoSueldo.Visible = true;
             }
     
-        }
-
-        private void label3_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void lblValidacionDepartamento_Click(object sender, EventArgs e)
-        {
-
         }
 
         private void btnLimpiar_Click(object sender, EventArgs e)

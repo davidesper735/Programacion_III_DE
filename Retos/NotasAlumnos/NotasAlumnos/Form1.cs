@@ -48,7 +48,7 @@ namespace NotasAlumnos
                         string nombreAlumno = datos[0];
                         double notaAlumno = double.Parse(datos[1]);
 
-                        if(notaAlumno >= 30 && notaAlumno <= 50)
+                        if(notaAlumno >= 3.0 && notaAlumno <= 5.0)
                         {
 
                             lstAprobados.Items.Add($"Nombre: {nombreAlumno} Nota: {notaAlumno}");

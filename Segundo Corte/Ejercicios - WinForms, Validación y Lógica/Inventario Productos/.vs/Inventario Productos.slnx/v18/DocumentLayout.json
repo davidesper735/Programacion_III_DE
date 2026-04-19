@@ -7,8 +7,12 @@
       "RelativeMoniker": "D:0:0:{AE5FBEFA-90A8-4F6C-8789-03FD95B2A9BA}|Inventario Productos\\Inventario Productos.csproj|solutionrelative:inventario productos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE5FBEFA-90A8-4F6C-8789-03FD95B2A9BA}|Inventario Productos\\Inventario Productos.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\segundo corte\\ejercicios - winforms, validaci\u00F3n y l\u00F3gica\\inventario productos\\inventario productos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AE5FBEFA-90A8-4F6C-8789-03FD95B2A9BA}|Inventario Productos\\Inventario Productos.csproj|C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Segundo Corte\\Ejercicios - WinForms, Validaci\u00F3n y L\u00F3gica\\Inventario Productos\\inventario productos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AE5FBEFA-90A8-4F6C-8789-03FD95B2A9BA}|Inventario Productos\\Inventario Productos.csproj|solutionrelative:inventario productos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE5FBEFA-90A8-4F6C-8789-03FD95B2A9BA}|Inventario Productos\\Inventario Productos.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\segundo corte\\ejercicios - winforms, validaci\u00F3n y l\u00F3gica\\inventario productos\\inventario productos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE5FBEFA-90A8-4F6C-8789-03FD95B2A9BA}|Inventario Productos\\Inventario Productos.csproj|solutionrelative:inventario productos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Segundo Corte\\Ejercicios - WinForms, Validaci\u00F3n y L\u00F3gica\\Inventario Productos\\Inventario Productos\\Program.cs",
+              "RelativeDocumentMoniker": "Inventario Productos\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Segundo Corte\\Ejercicios - WinForms, Validaci\u00F3n y L\u00F3gica\\Inventario Productos\\Inventario Productos\\Program.cs",
+              "RelativeToolTip": "Inventario Productos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T12:00:59.849Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +45,7 @@
               "RelativeDocumentMoniker": "Inventario Productos\\Form1.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Segundo Corte\\Ejercicios - WinForms, Validaci\u00F3n y L\u00F3gica\\Inventario Productos\\Inventario Productos\\Form1.cs",
               "RelativeToolTip": "Inventario Productos\\Form1.cs",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAiwBQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwGsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-10T05:43:27.942Z",
               "EditorCaption": ""

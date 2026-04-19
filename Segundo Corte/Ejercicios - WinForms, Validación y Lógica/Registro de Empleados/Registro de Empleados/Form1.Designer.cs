@@ -57,7 +57,6 @@
             this.txtNombres.Name = "txtNombres";
             this.txtNombres.Size = new System.Drawing.Size(174, 20);
             this.txtNombres.TabIndex = 0;
-            this.txtNombres.TextChanged += new System.EventHandler(this.txtNombres_TextChanged);
             // 
             // lblNombres
             // 
@@ -85,7 +84,6 @@
             this.label1.Size = new System.Drawing.Size(79, 17);
             this.label1.TabIndex = 3;
             this.label1.Text = "Apellidos";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // txtEmail
             // 
@@ -120,7 +118,6 @@
             this.label2.Size = new System.Drawing.Size(111, 17);
             this.label2.TabIndex = 7;
             this.label2.Text = "Identificación";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // numSueldoBase
             // 
@@ -176,7 +173,6 @@
             this.label3.Size = new System.Drawing.Size(115, 17);
             this.label3.TabIndex = 11;
             this.label3.Text = "Departamento";
-            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // btnRegistrar
             // 
@@ -208,7 +204,6 @@
             this.lblResultadoSueldo.TabIndex = 14;
             this.lblResultadoSueldo.Text = "lbl";
             this.lblResultadoSueldo.Visible = false;
-            this.lblResultadoSueldo.Click += new System.EventHandler(this.lblResultadoSueldo_Click);
             // 
             // lblValidacionNombres
             // 
@@ -249,7 +244,6 @@
             this.lblValidacionIdentificacion.TabIndex = 18;
             this.lblValidacionIdentificacion.Text = "label4";
             this.lblValidacionIdentificacion.Visible = false;
-            this.lblValidacionIdentificacion.Click += new System.EventHandler(this.lblValidacionIdentificacion_Click);
             // 
             // lblValidacionDepartamento
             // 
@@ -260,7 +254,7 @@
             this.lblValidacionDepartamento.TabIndex = 19;
             this.lblValidacionDepartamento.Text = "label4";
             this.lblValidacionDepartamento.Visible = false;
-            this.lblValidacionDepartamento.Click += new System.EventHandler(this.lblValidacionDepartamento_Click);
+
             // 
             // Form1
             // 

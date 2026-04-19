@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Persistencia\Gestión de Inventario\Gestión de Inventario\bin\Debug\Gestión de Inventario.exe.config
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Persistencia\Gestión de Inventario\Gestión de Inventario\bin\Debug\Gestión de Inventario.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Persistencia\Gestión de Inventario\Gestión de Inventario\bin\Debug\Gestión de Inventario.pdb
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Persistencia\Gestión de Inventario\Gestión de Inventario\obj\Debug\Gestión de Inventario.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Persistencia\Gestión de Inventario\Gestión de Inventario\obj\Debug\Gestión_de_Inventario.Form1.resources
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Persistencia\Gestión de Inventario\Gestión de Inventario\obj\Debug\Gestión_de_Inventario.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Persistencia\Gestión de Inventario\Gestión de Inventario\obj\Debug\Gestión de Inventario.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Persistencia\Gestión de Inventario\Gestión de Inventario\obj\Debug\Gestión de Inventario.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Persistencia\Gestión de Inventario\Gestión de Inventario\obj\Debug\Gestión de Inventario.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Ejercicios - WinForms, Persistencia\Gestión de Inventario\Gestión de Inventario\obj\Debug\Gestión de Inventario.pdb
