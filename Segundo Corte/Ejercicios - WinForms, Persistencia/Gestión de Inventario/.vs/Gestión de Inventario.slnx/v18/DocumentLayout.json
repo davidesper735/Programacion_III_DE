@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Segundo Corte\\Ejercicios - WinForms, Persistencia\\Gesti\u00F3n de Inventario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{631BBA10-302E-4C54-B8AA-CF2E869C641D}|Gesti\u00F3n de Inventario\\Gesti\u00F3n de Inventario.csproj|C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Segundo Corte\\Ejercicios - WinForms, Persistencia\\Gesti\u00F3n de Inventario\\gesti\u00F3n de inventario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{631BBA10-302E-4C54-B8AA-CF2E869C641D}|Gesti\u00F3n de Inventario\\Gesti\u00F3n de Inventario.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\segundo corte\\ejercicios - winforms, persistencia\\gesti\u00F3n de inventario\\gesti\u00F3n de inventario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{631BBA10-302E-4C54-B8AA-CF2E869C641D}|Gesti\u00F3n de Inventario\\Gesti\u00F3n de Inventario.csproj|solutionrelative:gesti\u00F3n de inventario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{631BBA10-302E-4C54-B8AA-CF2E869C641D}|Gesti\u00F3n de Inventario\\Gesti\u00F3n de Inventario.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\segundo corte\\ejercicios - winforms, persistencia\\gesti\u00F3n de inventario\\gesti\u00F3n de inventario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{631BBA10-302E-4C54-B8AA-CF2E869C641D}|Gesti\u00F3n de Inventario\\Gesti\u00F3n de Inventario.csproj|C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Segundo Corte\\Ejercicios - WinForms, Persistencia\\Gesti\u00F3n de Inventario\\gesti\u00F3n de inventario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{631BBA10-302E-4C54-B8AA-CF2E869C641D}|Gesti\u00F3n de Inventario\\Gesti\u00F3n de Inventario.csproj|solutionrelative:gesti\u00F3n de inventario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Gesti\u00F3n de Inventario\\Form1.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Segundo Corte\\Ejercicios - WinForms, Persistencia\\Gesti\u00F3n de Inventario\\Gesti\u00F3n de Inventario\\Form1.cs",
               "RelativeToolTip": "Gesti\u00F3n de Inventario\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-19T21:22:33.078Z",
               "IsPinned": true,
@@ -43,8 +43,7 @@
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Segundo Corte\\Ejercicios - WinForms, Persistencia\\Gesti\u00F3n de Inventario\\Gesti\u00F3n de Inventario\\Form1.cs [Design]",
               "RelativeToolTip": "Gesti\u00F3n de Inventario\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T21:15:25.269Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-04-19T21:15:25.269Z"
             }
           ]
         }
