@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Graficas\Graficas\obj\Debug\Graficas.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Graficas\Graficas\obj\Debug\Graficas.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Graficas\Graficas\obj\Debug\Graficas.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Graficas\Graficas\obj\Debug\Graficas.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Graficas\Graficas\obj\Debug\Graficas.Form1.resources
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Graficas\Graficas\bin\Debug\Graficas.exe.config
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Graficas\Graficas\bin\Debug\Graficas.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Graficas\Graficas\bin\Debug\Graficas.pdb
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Graficas\Graficas\bin\Debug\HelixToolkit.dll
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Graficas\Graficas\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Graficas\Graficas\bin\Debug\HelixToolkit.xml
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Graficas\Graficas\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Graficas\Graficas\obj\Debug\Graficas.csproj.Up2Date
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Graficas\Graficas\obj\Debug\Graficas.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Graficas\Graficas\obj\Debug\Graficas.pdb

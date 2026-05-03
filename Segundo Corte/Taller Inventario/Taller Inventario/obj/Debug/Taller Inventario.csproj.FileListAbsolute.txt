@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Taller Inventario\Taller Inventario\obj\Debug\Taller Inventario.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Taller Inventario\Taller Inventario\obj\Debug\Taller_Inventario.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Taller Inventario\Taller Inventario\obj\Debug\Taller_Inventario.views.FormPrincipal.resources
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Taller Inventario\Taller Inventario\obj\Debug\Taller Inventario.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Taller Inventario\Taller Inventario\obj\Debug\Taller Inventario.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Taller Inventario\Taller Inventario\bin\Debug\Taller Inventario.exe.config
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Taller Inventario\Taller Inventario\bin\Debug\Taller Inventario.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Taller Inventario\Taller Inventario\bin\Debug\Taller Inventario.pdb
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Taller Inventario\Taller Inventario\obj\Debug\Taller Inventario.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Taller Inventario\Taller Inventario\obj\Debug\Taller Inventario.pdb

@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Taller\obj\Debug\Taller.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Taller\obj\Debug\Taller.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Taller\obj\Debug\Taller.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Taller\obj\Debug\Taller.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Taller\bin\Debug\Taller.exe.config
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Taller\bin\Debug\Taller.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Taller\bin\Debug\Taller.pdb
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Taller\obj\Debug\Taller.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Taller\obj\Debug\Taller.pdb
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Taller\obj\Debug\Taller.views.FormPrincipal.resources
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Taller\obj\Debug\Taller.views.FormProductos.resources
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Taller\obj\Debug\Taller.views.FormEntradas.resources
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Taller\obj\Debug\Taller.views.FormSalidas.resources
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Segundo Corte\Taller\obj\Debug\Taller.views.FormInformes.resources

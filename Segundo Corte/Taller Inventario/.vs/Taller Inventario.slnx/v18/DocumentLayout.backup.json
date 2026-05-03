@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Segundo Corte\\Taller Inventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68CF01C6-8B9B-40A2-87D6-4D25AD04DD3F}|..\\Taller\\Taller.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\segundo corte\\taller\\views\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CF01C6-8B9B-40A2-87D6-4D25AD04DD3F}|..\\Taller\\Taller.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\segundo corte\\taller\\views\\formentradas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CF01C6-8B9B-40A2-87D6-4D25AD04DD3F}|..\\Taller\\Taller.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\segundo corte\\taller\\views\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CF01C6-8B9B-40A2-87D6-4D25AD04DD3F}|..\\Taller\\Taller.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\segundo corte\\taller\\views\\formsalidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CF01C6-8B9B-40A2-87D6-4D25AD04DD3F}|..\\Taller\\Taller.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\segundo corte\\taller\\views\\forminformes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CF01C6-8B9B-40A2-87D6-4D25AD04DD3F}|..\\Taller\\Taller.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\segundo corte\\taller\\views\\forminformes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CF01C6-8B9B-40A2-87D6-4D25AD04DD3F}|..\\Taller\\Taller.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\segundo corte\\taller\\views\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CF01C6-8B9B-40A2-87D6-4D25AD04DD3F}|..\\Taller\\Taller.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\segundo corte\\taller\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CF01C6-8B9B-40A2-87D6-4D25AD04DD3F}|..\\Taller\\Taller.csproj|c:\\users\\lenovo\\desktop\\github repositorio main\\programaci\u00F3n iii\\segundo corte\\taller\\views\\forminformes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormProductos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Segundo Corte\\Taller\\views\\FormProductos.cs",
+              "RelativeDocumentMoniker": "..\\Taller\\views\\FormProductos.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Segundo Corte\\Taller\\views\\FormProductos.cs [Design]",
+              "RelativeToolTip": "..\\Taller\\views\\FormProductos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T00:04:07.377Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormSalidas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Segundo Corte\\Taller\\views\\FormSalidas.cs",
+              "RelativeDocumentMoniker": "..\\Taller\\views\\FormSalidas.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Segundo Corte\\Taller\\views\\FormSalidas.cs [Design]",
+              "RelativeToolTip": "..\\Taller\\views\\FormSalidas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T01:23:27.864Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Segundo Corte\\Taller\\views\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "..\\Taller\\views\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Segundo Corte\\Taller\\views\\FormPrincipal.cs [Design]",
+              "RelativeToolTip": "..\\Taller\\views\\FormPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T16:02:20.835Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormEntradas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Segundo Corte\\Taller\\views\\FormEntradas.cs",
+              "RelativeDocumentMoniker": "..\\Taller\\views\\FormEntradas.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Segundo Corte\\Taller\\views\\FormEntradas.cs [Design]",
+              "RelativeToolTip": "..\\Taller\\views\\FormEntradas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T16:29:17.375Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormInformes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Segundo Corte\\Taller\\views\\FormInformes.cs",
+              "RelativeDocumentMoniker": "..\\Taller\\views\\FormInformes.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Segundo Corte\\Taller\\views\\FormInformes.cs [Design]",
+              "RelativeToolTip": "..\\Taller\\views\\FormInformes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T23:27:46.055Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormInformes.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Segundo Corte\\Taller\\views\\FormInformes.cs",
+              "RelativeDocumentMoniker": "..\\Taller\\views\\FormInformes.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Segundo Corte\\Taller\\views\\FormInformes.cs",
+              "RelativeToolTip": "..\\Taller\\views\\FormInformes.cs",
+              "ViewState": "AgIAACEBAAAAAAAAAAArwC8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T23:29:33.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormProductos.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Segundo Corte\\Taller\\views\\FormProductos.cs",
+              "RelativeDocumentMoniker": "..\\Taller\\views\\FormProductos.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Segundo Corte\\Taller\\views\\FormProductos.cs",
+              "RelativeToolTip": "..\\Taller\\views\\FormProductos.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T00:04:10.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Segundo Corte\\Taller\\models\\Producto.cs",
+              "RelativeDocumentMoniker": "..\\Taller\\models\\Producto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Segundo Corte\\Taller\\models\\Producto.cs",
+              "RelativeToolTip": "..\\Taller\\models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T00:04:00.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormInformes.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Segundo Corte\\Taller\\views\\FormInformes.Designer.cs",
+              "RelativeDocumentMoniker": "..\\Taller\\views\\FormInformes.Designer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Github Repositorio Main\\Programaci\u00F3n III\\Segundo Corte\\Taller\\views\\FormInformes.Designer.cs",
+              "RelativeToolTip": "..\\Taller\\views\\FormInformes.Designer.cs",
+              "ViewState": "AgIAAEoBAAAAAAAAAAAAAKsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T23:47:59.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
