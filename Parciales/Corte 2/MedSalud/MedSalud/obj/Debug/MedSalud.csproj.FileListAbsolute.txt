@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Parciales\Corte 2\MedSalud\MedSalud\obj\Debug\MedSalud.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Parciales\Corte 2\MedSalud\MedSalud\obj\Debug\MedSalud.Form1.resources
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Parciales\Corte 2\MedSalud\MedSalud\obj\Debug\MedSalud.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Parciales\Corte 2\MedSalud\MedSalud\obj\Debug\MedSalud.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Parciales\Corte 2\MedSalud\MedSalud\obj\Debug\MedSalud.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Parciales\Corte 2\MedSalud\MedSalud\bin\Debug\MedSalud.exe.config
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Parciales\Corte 2\MedSalud\MedSalud\bin\Debug\MedSalud.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Parciales\Corte 2\MedSalud\MedSalud\bin\Debug\MedSalud.pdb
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Parciales\Corte 2\MedSalud\MedSalud\obj\Debug\MedSalud.exe
+C:\Users\LENOVO\Desktop\Github Repositorio Main\Programación III\Parciales\Corte 2\MedSalud\MedSalud\obj\Debug\MedSalud.pdb

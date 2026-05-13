@@ -27,7 +27,7 @@ namespace Taller.views
             public int StockActual { get; set; }
         }
 
-        private List<Movimiento> _todosMovimientos = new List<Movimiento>();
+        private List<Movimiento> todosMovimientos = new List<Movimiento>();
 
         public FormInformes()
         {
@@ -97,7 +97,7 @@ namespace Taller.views
 
         private void CargarTodo()
         {
-            _todosMovimientos.Clear();
+            todosMovimientos.Clear();
 
             var ctrlSalidas = new controllers.Salidas();
             var productos = new controllers.Productos().Listar();
@@ -107,7 +107,7 @@ namespace Taller.views
             // Agregar entradas como movimientos
             foreach (var e in entradas)
             {
-                _todosMovimientos.Add(new Movimiento
+                todosMovimientos.Add(new Movimiento
                 {
                     Fecha = e.Fecha,
                     Tipo = "Entrada",
@@ -121,7 +121,7 @@ namespace Taller.views
             // Agregar salidas como movimientos
             foreach (var s in salidas)
             {
-                _todosMovimientos.Add(new Movimiento
+                todosMovimientos.Add(new Movimiento
                 {
                     Fecha = s.Fecha,
                     Tipo = "Salida",
@@ -133,11 +133,11 @@ namespace Taller.views
             }
 
             // Ordenar por fecha
-            _todosMovimientos.Sort((a, b) => string.Compare(a.Fecha, b.Fecha));
+            todosMovimientos.Sort((a, b) => string.Compare(a.Fecha, b.Fecha));
 
             // Cargar en dataGridView1
             dataGridView1.DataSource = null;
-            dataGridView1.DataSource = _todosMovimientos;
+            dataGridView1.DataSource = todosMovimientos;
 
             foreach (DataGridViewRow fila in dataGridView1.Rows)
                 fila.Height = 28;
@@ -275,7 +275,7 @@ namespace Taller.views
                 ? null
                 : cbTipoMovimientoInf.SelectedItem?.ToString();
 
-            var filtrados = _todosMovimientos.FindAll(m =>
+            var filtrados = todosMovimientos.FindAll(m =>
                 (filtroCodigo == null || m.CodigoProducto == filtroCodigo) &&
                 (filtroTipo == null || m.Tipo == filtroTipo)
             );
@@ -293,7 +293,7 @@ namespace Taller.views
             cbTipoMovimientoInf.SelectedIndex = 0;
 
             dataGridView1.DataSource = null;
-            dataGridView1.DataSource = _todosMovimientos;
+            dataGridView1.DataSource = todosMovimientos;
 
             foreach (DataGridViewRow fila in dataGridView1.Rows)
                 fila.Height = 28;

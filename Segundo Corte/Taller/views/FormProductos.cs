@@ -44,8 +44,6 @@ namespace Taller.views
         private void CargarProductos()
         {
 
-            MessageBox.Show(AppDomain.CurrentDomain.BaseDirectory);
-
             var lista = _controller.Listar();
 
             // Calcular stock actual de cada producto
@@ -185,6 +183,26 @@ namespace Taller.views
         public void RefrescarProductos()
         {
             CargarProductos();
+        }
+
+        private void lblPrecio_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtNombre_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void nudPrecio_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

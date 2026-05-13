@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.gbStockActualPorProductoInf = new System.Windows.Forms.GroupBox();
             this.dataGridView2 = new System.Windows.Forms.DataGridView();
             this.CodigoStockActual = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -54,16 +55,15 @@
             this.rtProductosStockBajoInf = new System.Windows.Forms.RichTextBox();
             this.rtUnidadesDespachadasInf = new System.Windows.Forms.RichTextBox();
             this.rtUnidadesIngresadasInf = new System.Windows.Forms.RichTextBox();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.Panel1.SuspendLayout();
             this.splitContainer1.Panel2.SuspendLayout();
             this.splitContainer1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.gbStockActualPorProductoInf.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // splitContainer1
@@ -89,6 +89,16 @@
             this.splitContainer1.Size = new System.Drawing.Size(800, 593);
             this.splitContainer1.SplitterDistance = 127;
             this.splitContainer1.TabIndex = 0;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::Taller.Properties.Resources.bannerInformes;
+            this.pictureBox1.Location = new System.Drawing.Point(4, 4);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(793, 120);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 0;
+            this.pictureBox1.TabStop = false;
             // 
             // gbStockActualPorProductoInf
             // 
@@ -219,7 +229,7 @@
             // 
             // btnFiltrarInf
             // 
-            this.btnFiltrarInf.BackColor = System.Drawing.SystemColors.Highlight;
+            this.btnFiltrarInf.BackColor = System.Drawing.SystemColors.Info;
             this.btnFiltrarInf.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnFiltrarInf.Location = new System.Drawing.Point(403, 12);
             this.btnFiltrarInf.Name = "btnFiltrarInf";
@@ -287,16 +297,6 @@
             this.rtUnidadesIngresadasInf.TabIndex = 0;
             this.rtUnidadesIngresadasInf.Text = "Total unidades ingresadas";
             // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = global::Taller.Properties.Resources.bannerInformes;
-            this.pictureBox1.Location = new System.Drawing.Point(4, 4);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(793, 120);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 0;
-            this.pictureBox1.TabStop = false;
-            // 
             // FormInformes
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -309,12 +309,12 @@
             this.splitContainer1.Panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).EndInit();
             this.splitContainer1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.gbStockActualPorProductoInf.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
         }
